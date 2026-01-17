@@ -1,0 +1,24 @@
+[2.427s] Invoking command in '/home/jaumemil/tfg_jaume_vf/build/turtlebot_control_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jaumemil/tfg_jaume_vf/build/turtlebot_control_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jaumemil/tfg_jaume_vf/install/turtlebot_control_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jaumemil/tfg_jaume_vf/build/turtlebot_control_pkg/build --no-deps symlink_data
+[3.201s] running develop
+[3.718s] running egg_info
+[3.718s] creating turtlebot_control_pkg.egg-info
+[3.768s] writing turtlebot_control_pkg.egg-info/PKG-INFO
+[3.768s] writing dependency_links to turtlebot_control_pkg.egg-info/dependency_links.txt
+[3.769s] writing entry points to turtlebot_control_pkg.egg-info/entry_points.txt
+[3.769s] writing requirements to turtlebot_control_pkg.egg-info/requires.txt
+[3.769s] writing top-level names to turtlebot_control_pkg.egg-info/top_level.txt
+[3.770s] writing manifest file 'turtlebot_control_pkg.egg-info/SOURCES.txt'
+[3.873s] reading manifest file 'turtlebot_control_pkg.egg-info/SOURCES.txt'
+[3.874s] writing manifest file 'turtlebot_control_pkg.egg-info/SOURCES.txt'
+[3.928s] running build_ext
+[3.928s] Creating /home/jaumemil/tfg_jaume_vf/install/turtlebot_control_pkg/lib/python3.12/site-packages/turtlebot-control-pkg.egg-link (link to .)
+[3.929s] Installing control_node script to /home/jaumemil/tfg_jaume_vf/install/turtlebot_control_pkg/lib/turtlebot_control_pkg
+[3.930s] 
+[3.930s] Installed /home/jaumemil/tfg_jaume_vf/build/turtlebot_control_pkg
+[3.931s] running symlink_data
+[3.931s] creating /home/jaumemil/tfg_jaume_vf/install/turtlebot_control_pkg/share/ament_index
+[3.931s] creating /home/jaumemil/tfg_jaume_vf/install/turtlebot_control_pkg/share/ament_index/resource_index
+[3.932s] creating /home/jaumemil/tfg_jaume_vf/install/turtlebot_control_pkg/share/ament_index/resource_index/packages
+[3.932s] symbolically linking /home/jaumemil/tfg_jaume_vf/build/turtlebot_control_pkg/resource/turtlebot_control_pkg -> /home/jaumemil/tfg_jaume_vf/install/turtlebot_control_pkg/share/ament_index/resource_index/packages
+[3.933s] symbolically linking /home/jaumemil/tfg_jaume_vf/build/turtlebot_control_pkg/package.xml -> /home/jaumemil/tfg_jaume_vf/install/turtlebot_control_pkg/share/turtlebot_control_pkg
+[4.007s] Invoked command in '/home/jaumemil/tfg_jaume_vf/build/turtlebot_control_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jaumemil/tfg_jaume_vf/build/turtlebot_control_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jaumemil/tfg_jaume_vf/install/turtlebot_control_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jaumemil/tfg_jaume_vf/build/turtlebot_control_pkg/build --no-deps symlink_data

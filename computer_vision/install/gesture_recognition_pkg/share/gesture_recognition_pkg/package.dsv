@@ -1,0 +1,9 @@
+source;share/gesture_recognition_pkg/hook/pythonpath.ps1
+source;share/gesture_recognition_pkg/hook/pythonpath.dsv
+source;share/gesture_recognition_pkg/hook/pythonpath.sh
+source;share/gesture_recognition_pkg/hook/ament_prefix_path.ps1
+source;share/gesture_recognition_pkg/hook/ament_prefix_path.dsv
+source;share/gesture_recognition_pkg/hook/ament_prefix_path.sh
+source;../../build/gesture_recognition_pkg/share/gesture_recognition_pkg/hook/pythonpath_develop.ps1
+source;../../build/gesture_recognition_pkg/share/gesture_recognition_pkg/hook/pythonpath_develop.dsv
+source;../../build/gesture_recognition_pkg/share/gesture_recognition_pkg/hook/pythonpath_develop.sh

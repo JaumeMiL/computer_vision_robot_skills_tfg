@@ -1,0 +1,17 @@
+[1.881s] Invoking command in '/home/jaumemil/turtlebot_mediapipe_ws/build/turtlebot_control_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jaumemil/turtlebot_mediapipe_ws/build/turtlebot_control_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jaumemil/turtlebot_mediapipe_ws/install/turtlebot_control_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jaumemil/turtlebot_mediapipe_ws/build/turtlebot_control_pkg/build --no-deps symlink_data
+[2.626s] running develop
+[2.897s] running egg_info
+[2.952s] writing turtlebot_control_pkg.egg-info/PKG-INFO
+[2.952s] writing dependency_links to turtlebot_control_pkg.egg-info/dependency_links.txt
+[2.953s] writing entry points to turtlebot_control_pkg.egg-info/entry_points.txt
+[2.958s] writing requirements to turtlebot_control_pkg.egg-info/requires.txt
+[2.958s] writing top-level names to turtlebot_control_pkg.egg-info/top_level.txt
+[3.001s] reading manifest file 'turtlebot_control_pkg.egg-info/SOURCES.txt'
+[3.001s] writing manifest file 'turtlebot_control_pkg.egg-info/SOURCES.txt'
+[3.078s] running build_ext
+[3.078s] Creating /home/jaumemil/turtlebot_mediapipe_ws/install/turtlebot_control_pkg/lib/python3.12/site-packages/turtlebot-control-pkg.egg-link (link to .)
+[3.080s] Installing control_node script to /home/jaumemil/turtlebot_mediapipe_ws/install/turtlebot_control_pkg/lib/turtlebot_control_pkg
+[3.081s] 
+[3.081s] Installed /home/jaumemil/turtlebot_mediapipe_ws/build/turtlebot_control_pkg
+[3.081s] running symlink_data
+[3.129s] Invoked command in '/home/jaumemil/turtlebot_mediapipe_ws/build/turtlebot_control_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jaumemil/turtlebot_mediapipe_ws/build/turtlebot_control_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jaumemil/turtlebot_mediapipe_ws/install/turtlebot_control_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jaumemil/turtlebot_mediapipe_ws/build/turtlebot_control_pkg/build --no-deps symlink_data

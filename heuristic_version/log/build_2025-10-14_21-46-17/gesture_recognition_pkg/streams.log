@@ -1,0 +1,17 @@
+[0.765s] Invoking command in '/home/jaumemil/turtlebot_mediapipe_ws/build/gesture_recognition_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jaumemil/turtlebot_mediapipe_ws/build/gesture_recognition_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jaumemil/turtlebot_mediapipe_ws/install/gesture_recognition_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jaumemil/turtlebot_mediapipe_ws/build/gesture_recognition_pkg/build --no-deps symlink_data
+[1.087s] running develop
+[1.263s] running egg_info
+[1.281s] writing gesture_recognition_pkg.egg-info/PKG-INFO
+[1.281s] writing dependency_links to gesture_recognition_pkg.egg-info/dependency_links.txt
+[1.281s] writing entry points to gesture_recognition_pkg.egg-info/entry_points.txt
+[1.281s] writing requirements to gesture_recognition_pkg.egg-info/requires.txt
+[1.281s] writing top-level names to gesture_recognition_pkg.egg-info/top_level.txt
+[1.316s] reading manifest file 'gesture_recognition_pkg.egg-info/SOURCES.txt'
+[1.317s] writing manifest file 'gesture_recognition_pkg.egg-info/SOURCES.txt'
+[1.346s] running build_ext
+[1.347s] Creating /home/jaumemil/turtlebot_mediapipe_ws/install/gesture_recognition_pkg/lib/python3.12/site-packages/gesture-recognition-pkg.egg-link (link to .)
+[1.347s] Installing vision_node script to /home/jaumemil/turtlebot_mediapipe_ws/install/gesture_recognition_pkg/lib/gesture_recognition_pkg
+[1.347s] 
+[1.348s] Installed /home/jaumemil/turtlebot_mediapipe_ws/build/gesture_recognition_pkg
+[1.350s] running symlink_data
+[1.377s] Invoked command in '/home/jaumemil/turtlebot_mediapipe_ws/build/gesture_recognition_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jaumemil/turtlebot_mediapipe_ws/build/gesture_recognition_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jaumemil/turtlebot_mediapipe_ws/install/gesture_recognition_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jaumemil/turtlebot_mediapipe_ws/build/gesture_recognition_pkg/build --no-deps symlink_data

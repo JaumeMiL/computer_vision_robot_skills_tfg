@@ -1,0 +1,17 @@
+[0.941s] Invoking command in '/home/jaumemil/tfg_jaume_v2/build/gesture_recognition_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jaumemil/tfg_jaume_v2/build/gesture_recognition_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jaumemil/tfg_jaume_v2/install/gesture_recognition_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jaumemil/tfg_jaume_v2/build/gesture_recognition_pkg/build --no-deps symlink_data
+[1.247s] running develop
+[1.413s] running egg_info
+[1.427s] writing gesture_recognition_pkg.egg-info/PKG-INFO
+[1.427s] writing dependency_links to gesture_recognition_pkg.egg-info/dependency_links.txt
+[1.427s] writing entry points to gesture_recognition_pkg.egg-info/entry_points.txt
+[1.428s] writing requirements to gesture_recognition_pkg.egg-info/requires.txt
+[1.428s] writing top-level names to gesture_recognition_pkg.egg-info/top_level.txt
+[1.464s] reading manifest file 'gesture_recognition_pkg.egg-info/SOURCES.txt'
+[1.465s] writing manifest file 'gesture_recognition_pkg.egg-info/SOURCES.txt'
+[1.494s] running build_ext
+[1.494s] Creating /home/jaumemil/tfg_jaume_v2/install/gesture_recognition_pkg/lib/python3.12/site-packages/gesture-recognition-pkg.egg-link (link to .)
+[1.495s] Installing vision_node script to /home/jaumemil/tfg_jaume_v2/install/gesture_recognition_pkg/lib/gesture_recognition_pkg
+[1.497s] 
+[1.497s] Installed /home/jaumemil/tfg_jaume_v2/build/gesture_recognition_pkg
+[1.497s] running symlink_data
+[1.526s] Invoked command in '/home/jaumemil/tfg_jaume_v2/build/gesture_recognition_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jaumemil/tfg_jaume_v2/build/gesture_recognition_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jaumemil/tfg_jaume_v2/install/gesture_recognition_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jaumemil/tfg_jaume_v2/build/gesture_recognition_pkg/build --no-deps symlink_data

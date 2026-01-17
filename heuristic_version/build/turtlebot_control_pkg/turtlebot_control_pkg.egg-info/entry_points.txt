@@ -1,0 +1,2 @@
+[console_scripts]
+control_node = turtlebot_control_pkg.control_node:main

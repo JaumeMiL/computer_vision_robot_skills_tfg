@@ -1,0 +1,2 @@
+[console_scripts]
+vision_node = gesture_recognition_pkg.vision_node:main

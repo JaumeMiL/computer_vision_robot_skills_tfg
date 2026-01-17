@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: turtlebot-control-pkg
+Version: 0.0.1
+Summary: Gesture Int8 -> cmd_vel Twist
+Maintainer: jaumemil
+Maintainer-email: jaumemil@todo.todo
+License: BSD-3-Clause

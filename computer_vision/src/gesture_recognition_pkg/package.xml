@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>gesture_recognition_pkg</name>
+  <version>0.0.1</version>
+  <description>Detecta gestos amb MediaPipe i publica /gesture_command (Int8).</description>
+
+  <maintainer email="jaumemil@todo.todo">jaumemil</maintainer>
+  <license>BSD-3-Clause</license>
+
+  <!-- ROS 2 runtime deps -->
+  <depend>rclpy</depend>
+  <depend>std_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>cv_bridge</depend>
+
+  <!-- Tests (opcionals) -->
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+  <test_depend>python3-pytest</test_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

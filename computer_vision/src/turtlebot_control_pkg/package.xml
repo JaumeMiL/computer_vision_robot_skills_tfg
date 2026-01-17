@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>turtlebot_control_pkg</name>
+  <version>0.0.1</version>
+  <description>Subscriu /gesture_command i publica /cmd_vel (Twist).</description>
+
+  <maintainer email="jaumemil@todo.todo">jaumemil</maintainer>
+  <license>BSD-3-Clause</license>
+
+  <depend>rclpy</depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

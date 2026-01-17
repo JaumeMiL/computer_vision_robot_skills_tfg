@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+gesture_recognition_pkg/__init__.py
+gesture_recognition_pkg/vision_node.py
+gesture_recognition_pkg.egg-info/PKG-INFO
+gesture_recognition_pkg.egg-info/SOURCES.txt
+gesture_recognition_pkg.egg-info/dependency_links.txt
+gesture_recognition_pkg.egg-info/entry_points.txt
+gesture_recognition_pkg.egg-info/requires.txt
+gesture_recognition_pkg.egg-info/top_level.txt
+gesture_recognition_pkg.egg-info/zip-safe
+gesture_recognition_pkg/models/eureka_model.pth
+resource/gesture_recognition_pkg

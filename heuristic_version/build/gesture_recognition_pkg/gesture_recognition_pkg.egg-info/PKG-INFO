@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: gesture-recognition-pkg
+Version: 0.0.1
+Summary: MediaPipe hands -> /gesture_command
+Maintainer: jaumemil
+Maintainer-email: jaumemil@todo.todo
+License: BSD-3-Clause
