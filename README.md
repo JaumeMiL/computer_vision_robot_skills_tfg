@@ -1,5 +1,5 @@
-# Gesture-Based Teleoperation System for TurtleBot3
-## A Computer Vision Framework for Intuitive Human-Robot Interaction
+# A Novel Computer Vision Framework to Enhance Robot Skills 
+## TFG - Grau en Intel·ligència Artificial
 ### Author: Jaume Mora i Ladària
 ### Supervisors: Anaís Garrell and Isiah Zaplana
 
