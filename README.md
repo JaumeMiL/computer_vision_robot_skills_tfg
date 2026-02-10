@@ -2,7 +2,7 @@
 ## TFG - Grau en Intel·ligència Artificial
 ### Author: Jaume Mora i Ladària
 ### Supervisors: Anaís Garrell and Isiah Zaplana
-
+### Grade: 9.5/10
 ---
 
 ### Overview
